@@ -5685,7 +5685,7 @@ entities:
       pos: 16.5,-21.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -8395.96
+      secondsUntilStateChange: -8424.271
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -27304,6 +27304,11 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -31.5,30.5
+      parent: 2
+  - uid: 12446
+    components:
+    - type: Transform
+      pos: -33.5,24.5
       parent: 2
 - proto: ChemDispenser
   entities:
@@ -58007,6 +58012,12 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -25.5,28.5
+      parent: 2
+  - uid: 12445
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -29.5,28.5
       parent: 2
 - proto: PoweredSmallLightMaintenance
   entities:
