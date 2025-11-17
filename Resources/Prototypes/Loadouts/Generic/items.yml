@@ -1050,3 +1050,11 @@
       group: LoadoutPets
   functions:
     - !type:LoadoutMakeFollower
+
+- type: loadout #Floof
+  id: LoadoutFriendshipBracelets
+  canBeHeirloom: true #FLOOF
+  category: Hands
+  cost: 0
+  items:
+    - ClothingHandsFriendshipBracelets
