@@ -12145,7 +12145,7 @@ entities:
       pos: 10.5,32.5
       parent: 82
     - type: Door
-      secondsUntilStateChange: -27660.387
+      secondsUntilStateChange: -27769.332
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -13029,7 +13029,7 @@ entities:
       pos: 30.5,50.5
       parent: 82
     - type: Door
-      secondsUntilStateChange: -28077.277
+      secondsUntilStateChange: -28186.223
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -13815,7 +13815,7 @@ entities:
       pos: -55.5,-23.5
       parent: 82
     - type: Door
-      secondsUntilStateChange: -26143.178
+      secondsUntilStateChange: -26252.123
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -39482,6 +39482,36 @@ entities:
     components:
     - type: Transform
       pos: 31.5,-13.5
+      parent: 82
+  - uid: 27298
+    components:
+    - type: Transform
+      pos: 59.5,-36.5
+      parent: 82
+  - uid: 27299
+    components:
+    - type: Transform
+      pos: 60.5,-36.5
+      parent: 82
+  - uid: 27300
+    components:
+    - type: Transform
+      pos: 61.5,-36.5
+      parent: 82
+  - uid: 27301
+    components:
+    - type: Transform
+      pos: 62.5,-36.5
+      parent: 82
+  - uid: 27302
+    components:
+    - type: Transform
+      pos: 63.5,-36.5
+      parent: 82
+  - uid: 27303
+    components:
+    - type: Transform
+      pos: 63.5,-37.5
       parent: 82
 - proto: CableApcStack
   entities:
@@ -121097,7 +121127,7 @@ entities:
       pos: 29.5,63.5
       parent: 82
     - type: Door
-      secondsUntilStateChange: -40946.934
+      secondsUntilStateChange: -41055.883
       state: Opening
 - proto: HospitalCurtainsOpen
   entities:
