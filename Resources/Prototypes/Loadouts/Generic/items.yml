@@ -1052,9 +1052,9 @@
     - !type:LoadoutMakeFollower
 
 - type: loadout #Floof
-  id: LoadoutFriendshipBracelets
+  id: LoadoutItemFriendshipBracelets
   canBeHeirloom: true #FLOOF
-  category: Hands
+  category: Items
   cost: 0
   items:
     - ClothingHandsFriendshipBracelets
